@@ -3,7 +3,7 @@ import plotly
 import plotly as py
 import plotly.graph_objs as go 
 
-plotly.tools.set_credentials_file(username='themysterious07', api_key='wzM34UdHWbsrIoc6df3N')
+plotly.tools.set_credentials_file(username='___________', api_key='___________')
 
 from datetime import datetime
 import pandas as pd
